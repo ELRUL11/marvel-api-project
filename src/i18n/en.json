@@ -1,0 +1,62 @@
+{   "nav": {
+        "statisticsPane": "Statistics Pane",
+        "comicsSearch": "Comics Search",
+        "myComics": "My Comic",
+        "favoriteComics": "Favorite Comics"
+    },
+    "searchForm": {
+        "characters": {
+            "introText":"Start searching characters starting with",
+            "typeHere":"Type here...",
+            "buttonText":"Search characters!",
+            "selectCharacter":"Select a Character",
+            "searchCharacters":"Search Characters!"
+        },
+        "simpleAdvancedButton": {
+            "advancedSearch":"Advanced Search",
+            "simpleSearch":"Simple Search"
+        },
+        "comics": {
+            "searchComics":"Search Comics!",
+            "comicType":"Type",
+            "chooseComicType":"Choose comic type",
+            "comicTypeCollection":"Collection",
+            "comicFormat":"Comic format",
+            "chooseComicFormat":"Choose comic format",
+            "comicMagazine":"Magazine",
+            "comicTradePaperback":"Trade Paperback",
+            "comicHardcover":"Hardcover",
+            "comicDigest":"Digest",
+            "comicGraphicNovel":"Graphic Novel",
+            "comicDigital":"Digital Comic",
+            "comicInfinite":"Infinite Comic",
+            "comicStartDate":"Start date",
+            "comicTitle":"Comic title starts with",
+            "comicDigitalIssue":"Comics has digital issue:"
+        },
+        "date": {
+            "fromDate":"From: YYYY-MM-DD",
+            "toDate":"To date: YYYY-MM-DD"
+        },
+        "comicTable": {
+            "allComics":"All Comics",
+            "availableComics":"comics available",
+            "myComics":"My Comics",
+            "selectedComics":"comics selected",
+            "favoriteComics":"Favorite Comics",
+            "favoritedComics":"comic favorited"
+        }   
+    },
+    "statisticPaneBoxes": {
+        "totalComics":"Total Comics",
+        "totalCharacters":"Total characters"
+    },
+    "listItem": {
+        "issue":"Issue",
+        "pages": "Pages",
+        "date":"Date",
+        "price":"Price"
+    }
+}
+
+        

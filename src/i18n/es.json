@@ -1,0 +1,62 @@
+{   "nav": {
+        "statisticsPane": "Panel de Estadisticas",
+        "comicsSearch": "Busqueda de Comics",
+        "myComics": "Mis Comics",
+        "favoriteComics": "Comics Favoritos"
+    },
+    "searchForm": {
+        "characters": {
+            "introText":"Buscando personajes que empiecen por",
+            "typeHere":"Escribe aquí...",
+            "buttonText":"¡Buscar personajes!",
+            "selectCharacter":"Selecciona un personaje",
+            "searchCharacters":"¡Busca Personajes!"
+        },
+        "simpleAdvancedButton": {
+            "advancedSearch":"Busqueda Avanzada",
+            "simpleSearch":"Busqueda Simple"
+        },
+        "comics": { 
+            "searchComics":"¡Busca Comcis!",
+            "comicType":"Tipo",
+            "chooseComicType":"Elige el tipo de comic",
+            "comicTypeCollection":"Colección",
+            "comicFormat":"Formato de comic",
+            "comicMagazine":"Revista",
+            "comicTradePaperback":"Libro de Bolsillo",
+            "comicHardcover":"Tapa Dura",
+            "comicDigest":"Resumen",
+            "comicGraphicNovel":"Novela Grafica",
+            "comicDigital":"Comic Digital",
+            "comicInfinite":"Comic Infinito",
+            "chooseComicFormat":"Elige formato de comic",
+            "comicStartDate":"Fecha de inicio",
+            "comicTitle":"Titulo del comic empieza por",
+            "comicDigitalIssue":"El comic tiene edicion digital"
+        },
+        "date": {
+            "fromDate":"Desde: AAAA-MM-DD",
+            "toDate":"Hasta: AAAA-MM-DD"
+        },
+        "comicTable": {
+            "allComics":"Todos los comics",
+            "availableComics":"comics disponibles",
+            "myComics":"Mis Comics",
+            "selectedComics":"comics seleccionados",
+            "favoriteComics":"Comics Favoritos",
+            "favoritedComics":"comics en favoritos"
+        }
+    },
+    "statisticPaneBoxes": {
+        "totalComics":"Comics Totales",
+        "totalCharacters":"Personajes Totales"
+    },
+    "listItem": {
+        "issue":"Edición",
+        "pages": "Paginas",
+        "date":"Fecha",
+        "price":"Precio"
+    }
+}           
+
+        
